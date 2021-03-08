@@ -18,6 +18,10 @@
 
 ### ✨ [Demo](https://jaksearch.herokuapp.com/)
 
+## Roadmap
+
+[Kanban Board](https://github.com/byhbt/go-crawler/projects/1)
+
 ## Install
 
 ```sh
@@ -34,7 +38,6 @@ docker-compose up
 
 👤 **Thanh Huynh**
 
-* Website: https://thanh.xyz
 * Twitter: [@huynhbathanh](https://twitter.com/huynhbathanh)
 * Github: [@byhbt](https://github.com/byhbt)
 

@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/nimblehq/default-app-name/bootstrap"
+	"github.com/byhbt/go-crawler/bootstrap"
 
 	"github.com/gin-gonic/gin"
 )

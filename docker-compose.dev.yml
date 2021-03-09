@@ -3,9 +3,9 @@ version: "3.5"
 services:
   db:
     image: postgres:12.3
-    container_name: default-app-name_db
+    container_name: go_crawler_db
     environment:
-      - POSTGRES_DB=default-app-name_development
+      - POSTGRES_DB=go_crawler_development
       - POSTGRES_HOST_AUTH_METHOD=trust
     ports:
       - "5432:5432"

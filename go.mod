@@ -1,4 +1,4 @@
-module github.com/nimblehq/default-app-name
+module github.com/byhbt/go-crawler
 
 go 1.16
 

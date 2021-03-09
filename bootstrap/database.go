@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/nimblehq/default-app-name/helpers"
+	"github.com/byhbt/go-crawler/helpers"
 
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/viper"

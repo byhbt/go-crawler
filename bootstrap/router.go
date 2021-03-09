@@ -1,7 +1,7 @@
 package bootstrap
 
 import (
-	apiv1router "github.com/nimblehq/default-app-name/lib/api/v1/routers"
+	apiv1router "github.com/byhbt/go-crawler/lib/api/v1/routers"
 
 	"github.com/gin-gonic/gin"
 )

@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"github.com/nimblehq/default-app-name/lib/api/v1/controllers"
+	"github.com/byhbt/go-crawler/lib/api/v1/controllers"
 
 	"github.com/gin-gonic/gin"
 )
